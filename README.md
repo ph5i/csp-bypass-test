@@ -1,1 +1,1 @@
-# csp-bypass-test
+bypass jsdelivr CSP
